@@ -43,6 +43,9 @@ $ yarn run test:cov
 
 Pierre-Henry Soria. A super passionate & enthusiastic problem-solver / senior software engineer living in Sydney 🦘 Also a true cheese 🧀, espresso ☕️, and dark chocolate lover! 😋  👉 Reach me at [https://ph7.me](pH7.me) 💫 
 
+![Me Building This TypeScript Backend API](https://github.com/user-attachments/assets/c6a1378c-c990-46f9-ab7d-701a23fb4da7)
+
+
 ## License
 
 Nest is [MIT licensed](LICENSE).
